@@ -1,5 +1,5 @@
 # BRAD_v01
-BRAD software: initial version BRAD_v01 made by Anna Pidnebesna.
+BRAD software: initial version BRAD_v01 is made by Anna Pidnebesna.
 E-mail for correspondence: BrainActivityDetection@gmail.com
 
 BRAD_v01.zip contains the software, the needed functions, and two examples of datasets. Additionally, movie and corresponding collection of frames can be found at https://drive.google.com/open?id=0B2CiVrJGt1D5UV9BWk5NOVMwdWc
