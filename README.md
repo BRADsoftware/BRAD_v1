@@ -1,4 +1,4 @@
-# BRAD_v1
+# BRAD_v01
 BRAD software: initial version BRAD_v01 made by Anna Pidnebesna.
 E-mail for correspondence: BrainActivityDetection@gmail.com
 
