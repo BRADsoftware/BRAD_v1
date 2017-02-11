@@ -7,5 +7,6 @@ BRAD: Documentation contains the detailed description of using GUI BRAD.
 
 The program is tested for MATLAB R2014b, R2015b, R2016a, and R2016b versions.
 
-Initial version BRAD_v01 is made by Anna Pidnebesna.
+Initial version BRAD_v01 is made by Anna Pidnebesna, Institute of Computer Science, The Czech Academy of Sciences, Prague, Czech Republic.
+
 Last change: 11th of February 2017.
