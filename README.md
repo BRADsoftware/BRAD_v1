@@ -8,4 +8,4 @@ The program is tested for MATLAB R2014b, R2015b, R2016a, and R2016b versions.
 
 Initial version BRAD_v01 is made by Anna Pidnebesna, Department of Nonlinear Dynamics and Complex Systems, Institute of Computer Science, The Czech Academy of Sciences, Prague, Czech Republic.
 
-Last change: 15th of June 2017.
+Last change: 16th of June 2017.
